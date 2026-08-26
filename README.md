@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### About Me
+
+Hey! I’m Pravesh 👋
+
+I’m passionate about **Cloud Computing, Cybersecurity, and AWS**. I enjoy learning new technologies, building practical projects, and exploring how technology can solve real-world problems.
+
+☁️ Cloud Computing & AWS
+🔐 Cybersecurity
+🐍 Python | SQL | JavaScript
+🐧 Linux | Git | GitHub
+🚀 Learning • Building • Exploring
+
 
 
 ## 🌐 Socials:
