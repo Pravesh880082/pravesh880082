@@ -1,5 +1,15 @@
-## 💫 About Me:
-Hey! I’m Pravesh 👋<br><br>I’m passionate about Cloud Computing, Cybersecurity, and AWS. I enjoy learning new technologies, building practical projects, and exploring how technology can solve real-world problems.<br><br>☁️ Cloud Computing & AWS 🔐 Cybersecurity 🐍 Python | SQL | JavaScript 🐧 Linux | Git | GitHub 🚀 Learning • Building • Exploring
+💫 About Me
+
+Hey! I’m Pravesh 👋
+
+☁️ Aspiring DevOps & Cloud Engineer
+🐳 Docker | Kubernetes | Terraform
+⚙️ CI/CD | GitHub Actions | Linux
+☁️ AWS | Cloud Infrastructure
+💻 Python | SQL | JavaScript
+🚀 Building real-world projects and learning by doing.
+
+Learn • Build • Automate • Deploy
 
 
 ## 🌐 Socials:
