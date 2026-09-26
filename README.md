@@ -1,15 +1,17 @@
-💫 About Me
+## 👋 Hey, I’m Pravesh
 
-Hey! I’m Pravesh 👋
+🚀 **Aspiring DevOps & Cloud Engineer** passionate about building, automating, and deploying reliable applications and cloud infrastructure.
 
-☁️ Aspiring DevOps & Cloud Engineer
-🐳 Docker | Kubernetes | Terraform
-⚙️ CI/CD | GitHub Actions | Linux
-☁️ AWS | Cloud Infrastructure
-💻 Python | SQL | JavaScript
-🚀 Building real-world projects and learning by doing.
+☁️ **Cloud:** AWS | Cloud Infrastructure  
+⚙️ **DevOps:** Docker | Kubernetes | Terraform | CI/CD | GitHub Actions  
+🐧 **Systems:** Linux | Networking | Git | GitHub  
+💻 **Programming:** Python | SQL | JavaScript  
 
-Learn • Build • Automate • Deploy
+I enjoy turning ideas into **practical projects**, exploring modern DevOps tools, and continuously improving my understanding of cloud-native technologies.
+
+🔨 **Building projects • Automating workflows • Learning every day**
+
+> *Learn → Build → Automate → Deploy → Improve*
 
 
 ## 🌐 Socials:
